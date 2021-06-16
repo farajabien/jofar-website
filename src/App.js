@@ -11,6 +11,7 @@ function App() {
 			<main className='mt-5'>
 				<Route path='/' component={HomeScreen} exact />
 				<Route path='/home' component={HomeScreen} />
+				<Route path='/jofar-website/' component={HomeScreen} />
 			</main>
 			<Footer />
 		</Router>
