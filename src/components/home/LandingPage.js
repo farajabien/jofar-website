@@ -11,9 +11,9 @@ function LandingPage() {
 					src={smilingWoman2}
 					alt='smiling woman'
 					fluid
-					className=' w-50 mt-5'
+					className=' w-50 d-none d-md-block'
 				/>
-				<div className='ms-5 text-center mt-5'>
+				<div className='text-center landingPageSection'>
 					<Image src={favicon} alt='Jofar Logo' fluid className='me-5' />
 					<Image src={favicon} alt='Jofar Logo' fluid />
 

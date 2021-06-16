@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-import { Container, Row, Col, Image, Card, Accordion } from 'react-bootstrap'
+import { Container, Row, Col, Card, Accordion } from 'react-bootstrap'
 import blockchain from '../../images/blockchain.png'
 import { methodObj } from '../../resources/methodObj'
 
